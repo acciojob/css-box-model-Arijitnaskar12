@@ -1,2 +1,8 @@
-
+.container{
+	width:300px;
+	padding:50px;
+	border:15px solid blue;
+	margin:20px;
+	background-color:lightblue;
+}
 /* Your CSS Code here. */
